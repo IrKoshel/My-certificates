@@ -1,2 +1,14 @@
-# My-certificates
-My certificates from studing
+My certificates and Additional education:
+- ISTQB Certified Tester Foundation Level - 2024.
+- API QA Automation. Playwright/JavaScript - 2024.
+- Business English Complete: English for Professionals - 2024.
+- Git & GitHub for Automation Testing - 2024.
+- Learn Ethical Hacking From Scratch - 2023.
+- Azure DevOps Bootcamp: Zero to Hero - 2023.
+- Team Leadership & Team Building 2023 Master Class - 2023.
+- Scrum testing: Learn Testing in Agile and Scrum from A to Z - 2023.
+- Ultimate C# Masterclass - in progress.
+- C# Programming for Beginners - in progress.
+- C# Intermediate Programming - in progress.
+- Appium WinAppDriver C# Windows Desktop UI Automation Testing - in progress.
+- Unit Testing Dotnet (.NET) Application with xUnit .net & MOQ - in progress.
